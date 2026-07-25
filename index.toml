@@ -14013,6 +14013,10 @@ file = "mods/AE2-Things-1.0.7.jar"
 hash = "9dd028d7b2ff06825b0b645f4746a4098b6bafa689f2af0a9be31538d22c9fd3"
 
 [[files]]
+file = "mods/AEInfinityBooster-1.18.2-1.1.0+9.jar"
+hash = "d28c99fc2e2762fadf30cd015e82a7ebf3358a51f510037ea86865dcafb9f547"
+
+[[files]]
 file = "mods/AkashicTome-1.5-20.jar"
 hash = "156c495d55c312522ca51e46db272dbfba209d0c2fc70c95466d1cd487859f92"
 
@@ -14097,6 +14101,10 @@ file = "mods/ExtraStorage-1.18.2-2.2.1.jar"
 hash = "9335fddc1fe46b3d59808c89bb72f4b518c06e7931d7cdf7e48548afd86b1b4b"
 
 [[files]]
+file = "mods/FarmersDelight-1.18.2-1.2.3.jar"
+hash = "b192b64908d4fd963151b79329d6f0c5d5d1a1273f7e82849b3c08b720311028"
+
+[[files]]
 file = "mods/FastWorkbench-1.18.2-6.1.1.jar"
 hash = "f6bc20027a7ae63cf5d29480dc20bcaa8a7b2a364cb5045994dd83c031a4ea88"
 
@@ -14149,6 +14157,10 @@ file = "mods/MekanismGenerators-1.18.2-10.2.5.465.jar"
 hash = "a981e77d4825111d15b529400eac3c21f43b3a47ea12d82475a66cf919e52aa0"
 
 [[files]]
+file = "mods/MeowtysMod.jar"
+hash = "3536a375d9003ac0c24d1fdb74a6a5ef0b30b4d2cff2e34c88c635daa695e19f"
+
+[[files]]
 file = "mods/MmmMmmMmmMmm-1.18.2-1.5.2.jar"
 hash = "1cca8ad3597392b8ea7183125541818d20cde56d1f16d2317bcd473ad13a9693"
 
@@ -14181,6 +14193,10 @@ file = "mods/Ping-1.18-1.8.0.jar"
 hash = "f92f111443724c5c03ecc78be0d4c0d915c7ab87700d51a863552145d044ad9e"
 
 [[files]]
+file = "mods/PizzaCraft-1.18.2-5.1.7.jar"
+hash = "5ba2729cde7717a83377859cc07e96b90bfd9e41f93b8001479d2b59725e22eb"
+
+[[files]]
 file = "mods/Placebo-1.18.2-6.6.7.jar"
 hash = "3ad270729e720fa745f0a044871fea22fd6853c83346b5685030f90458e4514a"
 
@@ -14195,6 +14211,10 @@ hash = "b7d52586d5c8a8a86d6845711c916f4b3591d62aa19334dbf960c1352b68494b"
 [[files]]
 file = "mods/PuzzlesLib-v3.5.10-1.18.2-Forge.jar"
 hash = "67fc0b05ca0fa755dda681c20aaf29e55b8845841451efc6c40631b91b95d9d2"
+
+[[files]]
+file = "mods/QOL Hunters-0.42.12.jar"
+hash = "704d6e1026b9b0e239e72286c543da5b70fdb0e0870124974762da4e7cf60368"
 
 [[files]]
 file = "mods/Quark-3.2-358.jar"
@@ -14277,6 +14297,10 @@ file = "mods/bdlib-1.19.3.7-mc1.18.2.jar"
 hash = "3ce4d0bdeabcffc6c7551a00e13ce925a498e08ee2747b6cc84d6e01fe25fe49"
 
 [[files]]
+file = "mods/bellsandwhistles-v0.4.1-mc1.18.2.jar"
+hash = "3793682baa419a90a8b3a83d194af8cefd07e7ce975fcbf3db592c3a1ac68d87"
+
+[[files]]
 file = "mods/buildinggadgets-3.13.2-build.21+mc1.18.2.jar"
 hash = "5eae7d0201adc89c4d6cdf80defb2807768a269090bb4ce7bc7c901cd208813a"
 
@@ -14317,6 +14341,10 @@ file = "mods/comforts-forge-1.18.2-5.0.0.6.jar"
 hash = "10da8248a7e9440a84394a4b78410ec6ab85d66f521cfc3f87849dfada3a65d7"
 
 [[files]]
+file = "mods/companioncodex-1.0.6.jar"
+hash = "e0d430e6746931514fbfc4b46ca46e7fc412978da57270f28a7e1c498f941c6c"
+
+[[files]]
 file = "mods/cookingforblockheads-forge-1.18.2-12.2.0.jar"
 hash = "4201ea207da01c2d4593f6df0f0ff7a4c538fc5e92fd0767ff37bfde6ee2e231"
 
@@ -14337,8 +14365,20 @@ file = "mods/create-1.18.2-0.5.1.i.jar"
 hash = "5311dbc98d734d7cf0f38f3a9a149234136b912228cdf01b746fbe32d41d0fe2"
 
 [[files]]
+file = "mods/create-confectionery1.18.2_v1.0.9.jar"
+hash = "0e6e40f7c4491be0542565ae29a8f2a40cd272fd2d66ac4ea8e16cb50c5ce336"
+
+[[files]]
+file = "mods/create_winery-1.4.0-forge-1.18.2.jar"
+hash = "896474c9f49bba6546d01e254ef6cd3e8b9f7326576cffe854d7a06e37893ab6"
+
+[[files]]
 file = "mods/createaddition-1.18.2-1.0.0.jar"
 hash = "359d3811abfcc775822b758a575649dee3c14660dab03f16ce1235687d2b330f"
+
+[[files]]
+file = "mods/createcafe-1.10.5-1.18.2.jar"
+hash = "0888225b3361ea75b924ee7841a01ef8c8f2d3bfe91f9046c1c365c52d487b71"
 
 [[files]]
 file = "mods/creeperpower-1.18.2-0.2.0.jar"
@@ -14405,6 +14445,10 @@ file = "mods/foregoing_tweaker-1.18-1.1.5.jar"
 hash = "80b95876a03b5dbb7ae01cb462f13a5daae6602ba4699ce0014d5da34551b913"
 
 [[files]]
+file = "mods/furnish-1.18-0.6-fix1.jar"
+hash = "5d6cfab0fe84154e2ef43acded4a4ae7da1ca62e65446e03a346c3268170f87e"
+
+[[files]]
 file = "mods/gateways-1.18.2-0.1.0.jar"
 hash = "8bd6e8927729f897fbd066c5fd0c0e4500dceaa20197615329aff07eff478150"
 
@@ -14443,6 +14487,10 @@ hash = "5eecb26dfcb6ec5593c39770942643b154f4e9406a54313bd97ec0d21d548121"
 [[files]]
 file = "mods/libnonymous-2.1.0.jar"
 hash = "28766ce614bc8987b7feca15fac928aa53f8e974b63674cc49eb783a276c4e58"
+
+[[files]]
+file = "mods/lightmanscurrency-1.18.2-2.1.2.5e.jar"
+hash = "579f40ff9d967bc69dbd498ec295e748b9fd9ef87a51e6f5c340e8e0248327cb"
 
 [[files]]
 file = "mods/mcjtylib-1.18-6.0.20.jar"
@@ -14513,6 +14561,10 @@ file = "mods/polymorph-forge-1.18.2-0.50.jar"
 hash = "9ae8862912415b4c35b0b37d71ae67acc56007fdb22024c08348d9a62ff4b903"
 
 [[files]]
+file = "mods/quickteleports-1.18.2-1.2.0-forge.jar"
+hash = "6d52a2b745702a96e556cbd20b487af01776d494b7f7fa4312c1519fd6d7c7c2"
+
+[[files]]
 file = "mods/refinedstorage-1.10.6.jar"
 hash = "92157fdaa3e0f4541ff020f1721408167e453cbb4ff50c966ceeece970867512"
 
@@ -14553,8 +14605,16 @@ file = "mods/shutupexperimentalsettings-1.0.5.jar"
 hash = "ac97131b1e1e9e21e0f855d093ef96ce8ac0aa172c0399d65be95df03af6caab"
 
 [[files]]
+file = "mods/shw-forge-1.0.0.jar"
+hash = "b0bd3576b4272ee028c70f34377f17911e24cc8cd2dc35ffa224d49556d3cdcf"
+
+[[files]]
 file = "mods/simplylight-1.18.2-1.4.5-build.43.jar"
 hash = "797008879bb74da4c41fe99763c05e9d1442e6a7e883df8552af0045c9414dfd"
+
+[[files]]
+file = "mods/smallships-forge-1.18.2-2.0.0-b1.3.1.jar"
+hash = "4e4cb4c87c3576c1f6a6ba72ef823da0fa94ce1b6faab36175f1f7b57765950d"
 
 [[files]]
 file = "mods/sophisticatedbackpacks-1.18.2-3.20.3.1063.jar"
@@ -14613,6 +14673,10 @@ file = "mods/thermal_foundation-1.18.2-9.2.2.58.jar"
 hash = "2ebb58af57b0e64482b7809cf7f4c19c5725dc671317893302694660110def8f"
 
 [[files]]
+file = "mods/time-in-a-bottle-2.1.0-mc1.18.1.jar"
+hash = "927ce9a89bdb88f6d831e7ce36f048c8f3efaa6cd5af4d806f71245ba1a8cbc8"
+
+[[files]]
 file = "mods/titanium-1.18.2-3.5.11-47.jar"
 hash = "ba108e9745bc0f048eebae11f0c3fcbc1bf4eb40dfa88a8c3ba490a6a1989d70"
 
@@ -14629,12 +14693,28 @@ file = "mods/twigs-1.1.4-patch4+1.18.2-forge.jar"
 hash = "20b9ca87e9a9ffbef0e89239c3dc22db0812362bcf9f6d34d2516346f5dceb8f"
 
 [[files]]
+file = "mods/twitchspawn_1.18.2-1.9.3.jar"
+hash = "a0112ea8a7716b62ad461a5ee18bd44f17bede46bb7cf239daf1ddec3e93487d"
+
+[[files]]
+file = "mods/vault_curios_enhancements-1.14.0.jar"
+hash = "c15436a1090cc77e51604f982b251e37c6dd0838771dab53f200bb2dcdbfb858"
+
+[[files]]
+file = "mods/vaultcodex-1.2.0.jar"
+hash = "61488f651067f8527ea260fef9851f34aadd9da2bf55a98b1f054df55a1dd5ac"
+
+[[files]]
 file = "mods/vaultfilters-1.33.1.jar"
 hash = "0d55d95c83b2844d781b6b677581154e83292f76b12d9601fbe2b3aa0a0792cd"
 
 [[files]]
 file = "mods/vaultintegrations-1.18.2-1.0.17.jar"
 hash = "81dbf70af5b78045b7a79f144bae0838d7f0a5d2f538760d6a1d4a2c5fd109de"
+
+[[files]]
+file = "mods/vaultpartyui-1.3.jar"
+hash = "d918e08eb7e673283edf331535f84d0fd5f0d5f857ff99f0c83bd13f982649a7"
 
 [[files]]
 file = "mods/voicechat-forge-1.18.2-2.6.16.jar"
