@@ -1,0 +1,156 @@
+{
+  "scaleWithPlayerLevel": true,
+  "tasks": [
+    {
+      "id": "mine_vault_ores",
+      "category": "ores",
+      "description": "Mine %target% vault ores",
+      "min": 25,
+      "max": 1000,
+      "levelScale": 0.75,
+      "enabled": true
+    },
+    {
+      "id": "kill_mobs",
+      "category": "mobs",
+      "description": "Kill %target% mobs",
+      "min": 50,
+      "max": 1000,
+      "levelScale": 1.0,
+      "enabled": true
+    },
+    {
+      "id": "break_wooden_chests",
+      "category": "chests",
+      "description": "Break %target% wooden chests",
+      "min": 50,
+      "max": 500,
+      "levelScale": 0.75,
+      "enabled": true
+    },
+    {
+      "id": "break_living_chests",
+      "category": "chests",
+      "description": "Loot %target% living chests",
+      "min": 50,
+      "max": 500,
+      "levelScale": 0.75,
+      "enabled": true
+    },
+    {
+      "id": "break_gilded_chests",
+      "category": "chests",
+      "description": "Loot %target% gilded chests",
+      "min": 50,
+      "max": 500,
+      "levelScale": 0.75,
+      "enabled": true
+    },
+    {
+      "id": "break_ornate_chests",
+      "category": "chests",
+      "description": "Loot %target% ornate chests",
+      "min": 50,
+      "max": 500,
+      "levelScale": 0.75,
+      "enabled": true
+    },
+    {
+      "id": "complete_vault",
+      "category": "completion",
+      "description": "Complete the vault",
+      "min": 1,
+      "max": 1,
+      "levelScale": 0.0,
+      "enabled": true
+    },
+    {
+      "id": "collect_item",
+      "category": "items",
+      "description": "Find %target% %item%",
+      "min": 10,
+      "max": 250,
+      "levelScale": 0.25,
+      "enabled": true,
+      "item": "the_vault:vault_diamond",
+      "itemName": "Vault Diamonds"
+    },
+    {
+      "id": "collect_item",
+      "category": "items",
+      "description": "Find %target% %item%",
+      "min": 1,
+      "max": 4,
+      "levelScale": 0.05,
+      "enabled": true,
+      "item": "the_vault:trinket",
+      "itemName": "Trinket"
+    },
+    {
+      "id": "collect_item",
+      "category": "items",
+      "description": "Find %target% %item%",
+      "min": 5,
+      "max": 100,
+      "levelScale": 0.1,
+      "enabled": true,
+      "item": "the_vault:gem_black_opal",
+      "itemName": "Black Opals"
+    },
+    {
+      "id": "collect_item",
+      "category": "items",
+      "description": "Find %target% %item%",
+      "min": 1,
+      "max": 3,
+      "levelScale": 0.03,
+      "enabled": true,
+      "item": "the_vault:gem_pog",
+      "itemName": "Pogs"
+    },
+    {
+      "id": "collect_item",
+      "category": "items",
+      "description": "Find %target% %item%",
+      "min": 1,
+      "max": 1,
+      "levelScale": 0.0,
+      "enabled": true,
+      "item": "the_vault:opportunistic_focus",
+      "itemName": "Opportunistic Focus"
+    },
+    {
+      "id": "collect_item",
+      "category": "items",
+      "description": "Find %target% %item%",
+      "min": 1,
+      "max": 3,
+      "levelScale": 0.03,
+      "enabled": true,
+      "item": "the_vault:vault_necklace",
+      "itemName": "Pendant"
+    },
+    {
+      "id": "collect_item",
+      "category": "items",
+      "description": "Find %target% %item%",
+      "min": 1,
+      "max": 1,
+      "levelScale": 0.0,
+      "enabled": true,
+      "item": "the_vault:soul_vortex",
+      "itemName": "Soul Vortex"
+    },
+    {
+      "id": "collect_item",
+      "category": "items",
+      "description": "Find %target% %item%",
+      "min": 1,
+      "max": 1,
+      "levelScale": 0.0,
+      "enabled": true,
+      "item": "the_vault:companion_egg",
+      "itemName": "Companion Egg"
+    }
+  ]
+}

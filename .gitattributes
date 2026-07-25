@@ -1,0 +1,7 @@
+*.toml -text
+*.pw.toml -text
+*.json -text
+*.ini -text
+*.properties -text
+index.toml -text
+pack.toml -text

@@ -1,0 +1,24 @@
+{
+  "companion_codex": {
+    "base_party_size": 10,
+    "level_tiers": [
+      {
+        "min_level":0,
+        "size": 20
+      },
+      {
+        "min_level": 80,
+        "size": 20
+      },
+      {
+        "min_level": 90,
+        "size": 20
+      }
+    ],
+    "challenge_stacks_per_extra_companion": 0,
+    "curse_mode": 0,
+    "non_leader_temporal_cap_seconds": 3000,
+    "max_companions_per_player": -1,
+    "sleep_time_per_companion_seconds": 0
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "DROP": [
+    {
+      "text": "${actor}",
+      "color": "gold"
+    },
+    {
+      "text": " gifted you with ",
+      "color": "white"
+    },
+    {
+      "text": "${itemName}x${itemCount}",
+      "color": "gold"
+    }
+  ],
+  "SUMMON": [
+    {
+      "text": "${actor}",
+      "color": "gold"
+    },
+    {
+      "text": " summoned you a ",
+      "color": "white"
+    },
+    {
+      "text": "${mobName}",
+      "color": "gold"
+    }
+  ],
+  "EXECUTE": [
+    {
+      "text": "${actor}",
+      "color": "gold"
+    },
+    {
+      "text": " you\u0027re the best! I LOVE YOU! ",
+      "color": "white"
+    }
+  ],
+  "THROW": [
+    {
+      "text": "${actor}",
+      "color": "gold"
+    },
+    {
+      "text": " makes you throw something!",
+      "color": "white"
+    }
+  ],
+  "CLEAR": [
+    {
+      "text": "${actor}",
+      "color": "gold"
+    },
+    {
+      "text": " makes you lose something!",
+      "color": "white"
+    }
+  ],
+  "NOTHING": [
+    {
+      "text": "${actor}",
+      "color": "gold"
+    },
+    {
+      "text": " triggered no action!",
+      "color": "white"
+    }
+  ],
+  "SHUFFLE": [
+    {
+      "text": "${actor}",
+      "color": "gold"
+    },
+    {
+      "text": " shuffled stuff around!",
+      "color": "white"
+    }
+  ],
+  "CHANGE": [
+    {
+      "text": "${actor}",
+      "color": "gold"
+    },
+    {
+      "text": " changed some inventory stuff!",
+      "color": "white"
+    }
+  ],
+  "WAIT": [
+    {
+      "text": "will wait for ${waitTime}",
+      "color": "white"
+    }
+  ],
+  "OS_RUN": [
+    {
+      "text": "${actor}",
+      "color": "gold"
+    },
+    {
+      "text": " triggered a shell script!",
+      "color": "white"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Meowtys S4"
+author = "Hilha"
+version = "5.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3941fd2588372b024be3a2186900caa671431eadd6061f751540830104fdda9d"
+
+[versions]
+forge = "40.3.11"
+minecraft = "1.18.2"

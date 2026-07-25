@@ -1,0 +1,175 @@
+{
+  "LEVELS": [
+    {
+      "level": 0,
+      "pool": [
+        {
+          "value": {
+            "entries": [
+              {
+                "id": "minecraft:elytra",
+                "amountMin": 1,
+                "amountMax": 1
+              }
+            ]
+          },
+          "weight": 128
+        },
+        {
+          "value": {
+            "entries": [
+              {
+                "id": "the_vault:gem_echo",
+                "amountMin": 1,
+                "amountMax": 1
+              }
+            ]
+          },
+          "weight": 64
+        },
+        {
+          "value": {
+            "entries": [
+              {
+                "id": "the_vault:vault_platinum",
+                "amountMin": 1,
+                "amountMax": 1
+              }
+            ]
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "entries": [
+              {
+                "id": "the_vault:gem_pog",
+                "amountMin": 1,
+                "amountMax": 2
+              }
+            ]
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "entries": [
+              {
+                "id": "the_vault:chromatic_iron_ingot",
+                "amountMin": 32,
+                "amountMax": 64
+              }
+            ]
+          },
+          "weight": 256
+        },{
+          "value": {
+            "entries": [
+              {
+                "id": "the_vault:chromatic_steel_ingot",
+                "amountMin": 16,
+                "amountMax": 32
+              }
+            ]
+          },
+          "weight": 128
+        },
+        {
+          "value": {
+            "entries": [
+              {
+                "id": "the_vault:black_chromatic_steel_ingot",
+                "amountMin": 8,
+                "amountMax": 16
+              }
+            ]
+          },
+          "weight": 64
+        },
+        {
+          "value": {
+            "entries": [
+              {
+                "id": "quark:pickarang",
+                "amountMin": 1,
+                "amountMax": 1
+              }
+            ]
+          },
+          "weight": 128
+        },
+        {
+          "value": {
+            "entries": [
+              {
+                "id": "minecraft:netherite_block",
+                "amountMin": 1,
+                "amountMax": 2
+              }
+            ]
+          },
+          "weight": 128
+        },{
+          "value": {
+            "entries": [
+              {
+                "id": "ironfurnaces:million_furnace",
+                "amountMin": 1,
+                "amountMax": 1
+              }
+            ]
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "entries": [
+              {
+                "id": "minecraft:experience_bottle",
+                "amountMin": 16,
+                "amountMax": 64
+              }
+            ]
+          },
+          "weight": 128
+        },
+        {
+          "value": {
+            "entries": [
+              {
+                "id": "minecraft:saddle",
+                "amountMin": 1,
+                "amountMax": 2
+              }
+            ]
+          },
+          "weight": 128
+        },
+        {
+          "value": {
+            "entries": [
+              {
+                "id": "minecraft:diamond_block",
+                "amountMin": 1,
+                "amountMax": 2
+              }
+            ]
+          },
+          "weight": 256
+        },
+        {
+          "value": {
+            "entries": [
+              {
+                "id": "minecraft:emerald_block",
+                "amountMin": 1,
+                "amountMax": 2
+              }
+            ]
+          },
+          "weight": 256
+        }  
+      ]
+    }
+  ]
+}

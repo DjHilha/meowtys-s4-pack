@@ -1,0 +1,20 @@
+{
+  "SIZES": {
+    "COMMON": {
+      "min": 5,
+      "max": 10
+    },
+    "RARE": {
+      "min": 5,
+      "max": 10
+    },
+    "EPIC": {
+      "min": 5,
+      "max": 10
+    },
+    "OMEGA": {
+      "min": 5,
+      "max": 10
+    }
+  }
+}
