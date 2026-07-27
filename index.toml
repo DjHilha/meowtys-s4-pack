@@ -14665,6 +14665,10 @@ file = "mods/twitchspawn_1.18.2-1.9.3.jar"
 hash = "a0112ea8a7716b62ad461a5ee18bd44f17bede46bb7cf239daf1ddec3e93487d"
 
 [[files]]
+file = "mods/vault_curios_enhancements-1.14.0.jar"
+hash = "c15436a1090cc77e51604f982b251e37c6dd0838771dab53f200bb2dcdbfb858"
+
+[[files]]
 file = "mods/vaultfilters-1.33.1.jar"
 hash = "0d55d95c83b2844d781b6b677581154e83292f76b12d9601fbe2b3aa0a0792cd"
 
