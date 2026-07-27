@@ -1,5 +1,5 @@
 {
-  "minimumDeckLevel": 50,
+  "minimumDeckLevel": 1,
   "values": {
     "starter": {
       "model": "the_vault:deck/starter_deck#inventory",
@@ -84,7 +84,7 @@
             "XOXOOA",
             "OOXOXO",
             "AXOOXO"
-        ],
+          ],
           "weight": 1.0
         }
       ],
@@ -126,7 +126,7 @@
         {
           "value": [
             "OOOOOOOOO",
-            "OXXXAXXXO",
+            "OOOXAXOOO",
             "OOOOOOOOO"
           ],
           "weight": 1.0
@@ -166,10 +166,10 @@
       "layout": [
         {
           "value": [
-              "AOOOOOA",
-              "OOOXOOO",
-              "OOOXOOO",
-              "AOOOOOA"
+            "AOOOOOA",
+            "OOOXOOO",
+            "OOOXOOO",
+            "AOOOOOA"
           ],
           "weight": 1.0
         }
@@ -208,12 +208,12 @@
       "layout": [
         {
           "value": [
-              "XOOOXOX",
-              "OOOXOOO",
-              "OOOXOOO",
-              "XOXOXXX",
-              "XOOAOOX",
-              "XXOAOXX"
+            "XOOOXOX",
+            "OOOXOOO",
+            "OOOXOOO",
+            "XOXOXXX",
+            "XOOAOOX",
+            "XXOAOXX"
           ],
           "weight": 1.0
         }
@@ -233,10 +233,10 @@
       "layout": [
         {
           "value": [
-              "OOOOOOOOO",
-              "XXOOOOOXX",
-              "XXXOOOXXX",
-              "XOOOOOOOX"
+            "OOOOOOOOO",
+            "XXOOOOOXX",
+            "XXXOOOXXX",
+            "XOOOOOOOX"
           ],
           "weight": 1.0
         }
@@ -275,18 +275,18 @@
       "layout": [
         {
           "value": [
-              "XOOOOOX",
-              "OOOXOOO",
-              "OOXAXOO",
-              "OOOXOOO",
-              "XOOOOOX"
+            "XOOOOOX",
+            "OOOOOOO",
+            "OOAOAOO",
+            "OOOOOOO",
+            "XOOOOOX"
           ],
           "weight": 1.0
         }
       ],
       "socketCount": {
-        "min": 2,
-        "max": 2
+        "min": 3,
+        "max": 4
       }
     },
     "black": {
@@ -361,10 +361,10 @@
       "layout": [
         {
           "value": [
-              "OOOOOOO",
-              "OOOXOOO",
-              "OOOXOOO",
-              "OOOXXOO"
+            "OOOOOOO",
+            "OOOXOOO",
+            "OOOXOOO",
+            "OOOXXOO"
           ],
           "weight": 1.0
         }
@@ -384,12 +384,12 @@
       "layout": [
         {
           "value": [
-              "XOOOOOX",
-              "OXOOOXO",
-              "OXOOOXO",
-              "XOOXOOX",
-              "XXOXOXX",
-              "XXOOOXX"
+            "XOOOOOX",
+            "OXOOOXO",
+            "OXOOOXO",
+            "XOOXOOX",
+            "XXOXOXX",
+            "XXOOOXX"
           ],
           "weight": 1.0
         }
@@ -414,7 +414,7 @@
             "OOOXOOO",
             "OOXAXOO",
             "OOXOXOO"
-        ],
+          ],
           "weight": 1.0
         }
       ],
@@ -458,10 +458,10 @@
         {
           "value": [
             "OOOOOOO",
-            "OXXXXXO",
-            "OXXXXXO",
-            "OXXXXXO",
-            "OXXXXXO",
+            "OOXXXOO",
+            "OOXAXOO",
+            "OOXAXOO",
+            "OOXXXOO",
             "OOOOOOO"
           ],
           "weight": 1.0
@@ -502,14 +502,14 @@
       "essence": {
         "min": 3,
         "max": 3
-      },  
+      },
       "layout": [
         {
           "value": [
-              "AOOXOOO",
-              "OAOOOAO",
-              "OAOOOAO",
-              "AOOXOOO"
+            "AOOXOOO",
+            "OAOOOAO",
+            "OAOOOAO",
+            "AOOXOOO"
           ],
           "weight": 1.0
         }
@@ -529,12 +529,12 @@
       "layout": [
         {
           "value": [
-              "OXOOXOO",
-              "OOOOOOO",
-              "OOXOXOO",
-              "OOOXOOO",
-              "OXXXOOO",
-              "XOOOXXX"
+            "OXOOXOO",
+            "OOOOOOO",
+            "OOXOXOO",
+            "OOOXOOO",
+            "OXXXOOO",
+            "XOOOXXX"
           ],
           "weight": 1.0
         }
@@ -554,11 +554,11 @@
       "layout": [
         {
           "value": [
-              "OOOOOO",
-              "XOOOOX",
-              "AXOOXA",
-              "XOOOOX",
-              "OOOOOO"
+            "OOOOOO",
+            "XOOOOX",
+            "AXOOXA",
+            "XOOOOX",
+            "OOOOOO"
           ],
           "weight": 1.0
         }
@@ -578,11 +578,11 @@
       "layout": [
         {
           "value": [
-              "OOOOOO",
-              "AOOOOA",
-              "XOOOOX",
-              "XOOOOX",
-              "XOOXOX"
+            "OOOOOO",
+            "AOOOOA",
+            "XOOOOX",
+            "XOOOOX",
+            "XOOXOX"
           ],
           "weight": 1.0
         }
@@ -650,9 +650,9 @@
       "layout": [
         {
           "value": [
-            "XAAAX",
+            "OAOAO",
             "AOAOA",
-            "XAAAX"
+            "OAOAO"
           ],
           "weight": 1.0
         }
@@ -664,7 +664,7 @@
     },
     "skull": {
       "model": "the_vault:deck/skull_deck#inventory",
-      "name": "The Skull Deck",
+      "name": "The Meowtys Deck",
       "essence": {
         "min": 3,
         "max": 3
@@ -672,18 +672,18 @@
       "layout": [
         {
           "value": [
-            "XOOOOOX",
-            "OOXOXOO",
+            "AOOOOOA",
             "OOOOOOO",
-            "XOOOOOX",
-            "XXOXOXX"
+            "OOOAOOO",
+            "OOOOOOO",
+            "AOOOOOA"
           ],
           "weight": 1.0
         }
       ],
       "socketCount": {
-        "min": 3,
-        "max": 3
+        "min": 5,
+        "max": 5
       }
     },
     "mutant": {
@@ -795,7 +795,7 @@
           "value": [
             "XOOOOOX",
             "OOOOOOO",
-            "XOAOAOX",  
+            "XOAOAOX",
             "XOXOXOX",
             "XOOOOOX"
           ],

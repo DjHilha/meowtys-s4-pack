@@ -95,7 +95,7 @@
         },
         "children": [],
         "operating": false,
-        "countCurrency": true,
+        "countCurrency": "the_vault:vault_gold",
         "counter": {
           "variables": {},
           "target": {
@@ -394,27 +394,26 @@
     {
       "tab": "advanced",
       "discoveryTask": {
-        "id": "open_20_treasure_doors",
+        "id": "loot_2500_treasure_sand",
         "renderer": {
           "title": {
-            "text": "Open 20 Treasure Doors"
+            "text": "Treasure Sand Looted"
           },
           "type": "named"
         },
         "children": [],
         "operating": false,
-        "pre": "the_vault:treasure_door[open=false]",
-        "post": "the_vault:treasure_door[open=true]",
+        "filter": "the_vault:treasure_sand",
         "counter": {
           "variables": {},
           "target": {
-            "count": 20,
+            "count": 2500,
             "type": "constant"
           },
           "predicate": "GREATER_OR_EQUAL_TO",
           "type": "target"
         },
-        "type": "interact_block"
+        "type": "mine_block"
       },
       "id": "the_vault:treasure_deck",
       "output": {
@@ -585,13 +584,12 @@
         "counter": {
           "variables": {},
           "target": {
-            "count": 1,
+            "count": 25,
             "type": "constant"
           },
           "type": "target"
         },
-        "type": "rune_boss_objective",
-        "requiredRunes": 25
+        "type": "rune_boss_objective"
       },
       "id": "the_vault:runic_deck",
       "output": {
@@ -667,7 +665,7 @@
     {
       "tab": "advanced",
       "discoveryTask": {
-        "id": "discover_5_warehouse_rooms",
+        "id": "discover_10_warehouse_rooms",
         "renderer": {
           "title": {
             "text": "Discover Warehouse Rooms"
@@ -682,7 +680,7 @@
         "counter": {
           "variables": {},
           "target": {
-            "count": 5,
+            "count": 10,
             "type": "constant"
           },
           "type": "target"
@@ -1139,10 +1137,10 @@
     {
       "tab": "advanced",
       "discoveryTask": {
-        "id": "complete_vault_killing_5000_mobs",
+        "id": "complete_vault_killing_5600_mobs",
         "renderer": {
           "title": {
-            "text": "Complete a Vault killing at least 5,000 mobs"
+            "text": "Complete a Vault killing at least 5.600 mobs"
           },
           "type": "named"
         },
@@ -1156,7 +1154,7 @@
                 "counter": {
                   "variables": {},
                   "target": {
-                    "count": 5000,
+                    "count": 5600,
                     "type": "constant"
                   },
                   "predicate": "GREATER_OR_EQUAL_TO",
@@ -1208,15 +1206,15 @@
           "ITEM": "the_vault:omega_pog"
         },
         {
-          "AMOUNT": 16,
-          "ITEM": "the_vault:extraordinary_black_opal"
+          "AMOUNT": 64,
+          "ITEM": "minecraft:wither_skeleton_skull"
+        },
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:fools_gold"
         },
         {
           "AMOUNT": 64,
-          "ITEM": "the_vault:magic_silk"
-        },
-        {
-          "AMOUNT": 16,
           "ITEM": "the_vault:vault_platinum"
         }
       ]
@@ -1275,7 +1273,7 @@
         "id": "complete_15_puzzle_rooms",
         "renderer": {
           "title": {
-            "text": "Complete 15 Memory Rooms"
+            "text": "Complete 15 Puzzle Rooms"
           },
           "type": "named"
         },

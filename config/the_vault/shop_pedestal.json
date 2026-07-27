@@ -1528,6 +1528,17 @@
               "MAX_COST": 128
           },
           "weight": 10
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:mystic_pear"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 25,
+            "MAX_COST": 50
+          },
+          "weight": 20
         }
       ]
     }

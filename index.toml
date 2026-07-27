@@ -1366,11 +1366,11 @@ hash = "29cf9fde338176ea60db5b02619672f73e3eb194cd19a3b327d5455a30446b8a"
 
 [[files]]
 file = "config/the_vault/card/decks.json"
-hash = "f06b7a7b9deef45e6f8dc8f098f7ce11347c9d4756c65f3c9affe98341ab949b"
+hash = "995500e9365a2dd7a02ed6fdbedfa5663de49aaa42b5db68e75447962cedecdc"
 
 [[files]]
 file = "config/the_vault/card/modifiers.json"
-hash = "813775d63f80c7f2aef37a5cbce3e08a3283c544502b3815a2596a6a4b7787d8"
+hash = "3ebee50f2fb412112c80bafd5e53da181817d63f304e772ee7c172f516c208c0"
 
 [[files]]
 file = "config/the_vault/card/scalers.json"
@@ -1438,7 +1438,7 @@ hash = "7485bee390f1629150643395e415fc6db9d5ada57404fc985481ccb0f4cf0a1d"
 
 [[files]]
 file = "config/the_vault/companions.json"
-hash = "3bd174f5e7239ef7c2dc03527bf7c57666a43d55e8bb24acb2961993359b1321"
+hash = "8a9c3a79f46242dff45d9e3cbca0844e6ea4282bd5626e4af3aa501a3bc7c04f"
 
 [[files]]
 file = "config/the_vault/consumables.json"
@@ -13118,11 +13118,11 @@ hash = "5a10676d017bc9e5eb9c445fb43ca4b112f05f307da2492c4f1d2b1e078ead55"
 
 [[files]]
 file = "config/the_vault/jewel_pouch.json"
-hash = "68b3f713fb6ffba1eed7601ca32dde119540423d5f90dd3843462a7460ebe10f"
+hash = "c218dbd674bd2fe5bc038c33418a9ead81ac7196404d0ece6a53cb9655088811"
 
 [[files]]
 file = "config/the_vault/jewel_size.json"
-hash = "cdcedb23040c55182e17ae22bb0eb4820b487839a4ade94dda966d27021ac9e1"
+hash = "ef2e5d0071a74bb103595108f7a4e33556df948fcbdd163edd0d09637f5fa3b5"
 
 [[files]]
 file = "config/the_vault/lang/de_de/abilities_descriptions.json"
@@ -13354,7 +13354,7 @@ hash = "bc6d5d5cc184b94535881020dcce21d0f270e5a29c8f395cecd94b0b437b1afc"
 
 [[files]]
 file = "config/the_vault/material_box.json"
-hash = "de1cd930752c45c8ab81c1bf7776c128b07d36edf4704a4682ebb44af74933f6"
+hash = "704b0af50228a6b94eab9401976e54045928ddbb6340a37b49548fc6ecf76548"
 
 [[files]]
 file = "config/the_vault/menu_player_stat_description.json"
@@ -13450,19 +13450,19 @@ hash = "b30dd7addff2bdcbefae2fea24d5b5dfb30d651b1adcb29d387acd6f45de2e4d"
 
 [[files]]
 file = "config/the_vault/recipes/companion_relics_recipes.json"
-hash = "84fc15bc09d0cd7c89aa615f0ac670640d56e94de9a40a34899ca76cf4e41736"
+hash = "1fdfa8d3aabf9e8c66572b4a9d8c821a3fb7221e5d7fdaccd0483621d2f93f74"
 
 [[files]]
 file = "config/the_vault/recipes/companion_trails_recipes.json"
-hash = "d3b9bdfa26357142d0411c39a77060fe30b7fd8ecee02563000ad422be1c12c3"
+hash = "1d02d4f71eb11e57d0ef7c60493d064f007cabd326d84d9d0415ea92bb3940f1"
 
 [[files]]
 file = "config/the_vault/recipes/deck_recipes.json"
-hash = "d8c2c39a32d52aa79467f5e662fdcc70a3015111193dcc225e9b6ca1757afb6a"
+hash = "ebaab78696b4e9b382798888719428565d7e32a157b719a4b79dd214cb86d01b"
 
 [[files]]
 file = "config/the_vault/recipes/gear_recipes.json"
-hash = "c508e4374badb5c17637f25116e972f1adc317552e418e240436e0974a1f3b9e"
+hash = "7b189036fd648541f59a0da660f1c352ec2180b6d6d927f3f36e8ea88015c787"
 
 [[files]]
 file = "config/the_vault/recipes/inscription_recipes.json"
@@ -13510,11 +13510,11 @@ hash = "a246338adfe6899a204c39047581099564a1f579561b31c83f98e1ef0ca2eaef"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
-hash = "8a4e8db67a08df251615443328d6c5594137e23d45003b6d22872da502fec9e0"
+hash = "bee5b405a191b3046f1e1559ec73a3c30b3c317c63ccb76b971901fc62f85346"
 
 [[files]]
 file = "config/the_vault/royale_presets.json"
-hash = "9ed950a53cd5a3b9cb9c6a5bfe8d7886069bc81b338ea14fc2aff7898bdf2a4d"
+hash = "a1416c9850f64a2cfeec413394dca7087caf41eeb743ae2b51ed07a764457101"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -13526,7 +13526,7 @@ hash = "e0363375b20cf715ac75c8da1367587331ad91ed397ce9657bbbbff40cd38f41"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
-hash = "f51f9165de600b535e82fa5ce69235a567ac28dbaf051f6bd99d16c283366899"
+hash = "09a3cc17cd3100e9c6e6ba767ca9ee1e669a66bf676d23b6b168bdb13864fc60"
 
 [[files]]
 file = "config/the_vault/sigils/adept.json"
@@ -13790,7 +13790,7 @@ hash = "5d17dee8ae4769e3bbcfa2c6967447200a45bdcc5a91bd1f7737eb9f73f913c5"
 
 [[files]]
 file = "config/the_vault/vault_rune_boss.json"
-hash = "4db36ce4d7b372a7979a931e1e40b02aac09ab3427515e7496be99bf2c4af6e1"
+hash = "28c8cdcb75a1002dcd861246bddd5d4ca32c0aa84a11d69917144969117d1600"
 
 [[files]]
 file = "config/the_vault/vault_stats.json"
