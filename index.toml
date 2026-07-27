@@ -61,6 +61,50 @@ file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
 [[files]]
+file = "config/TwitchSpawn/client_credentials.json"
+hash = "9fd53857e5827b2735b3c061eabd5753b5b3beb6d6d9f00e85d3d8836eec8dd8"
+
+[[files]]
+file = "config/TwitchSpawn/credentials.toml"
+hash = "1806d972f12a522ead8d32f6d3592550a08527eef93ef0ba72a7c0b27148e169"
+
+[[files]]
+file = "config/TwitchSpawn/messages.subtitle.json"
+hash = "d4fbf050034d0878588a9af3ebb8e8a39a9a1a102ca127cb7da26e07bda05504"
+
+[[files]]
+file = "config/TwitchSpawn/messages.title.json"
+hash = "1cb4eb3187b47c84c216e4f84139afea3c3c3dfcfce06209fbded634ef18f03c"
+
+[[files]]
+file = "config/TwitchSpawn/preferences.toml"
+hash = "4a9de5cb573a2ac38674c7ba75eb025a5b8ba9b4cf4b039eac91efc74930a0e8"
+
+[[files]]
+file = "config/TwitchSpawn/rules.HalosiaPaage.tsl"
+hash = "c663718ffbf15d8ee199a87aa5ab218e00f7a4f340d1b4bb5f7d460506b422e7"
+
+[[files]]
+file = "config/TwitchSpawn/rules.Hilha.tsl"
+hash = "891bd7354864d64d000ede1070f6f16d01f6256e74145dc007fc906300dda9ee"
+
+[[files]]
+file = "config/TwitchSpawn/rules.Hilha.tsl.orig"
+hash = "84cda20e97dad91d40b08539279370a48fbec47d0d0566fc06683ea89f5734cb"
+
+[[files]]
+file = "config/TwitchSpawn/rules.Rhaw_G.tsl"
+hash = "8b29acd311f0139493d567ff819df4536e24e730d137c406225d81ae3d80126d"
+
+[[files]]
+file = "config/TwitchSpawn/rules.default.tsl"
+hash = "2ec73a9b31b3b346938cd4129b0aab33c1af61ea15e3f5fb1fab3cd6dda43849"
+
+[[files]]
+file = "config/TwitchSpawn/server_discord_conn.json"
+hash = "07cafaf858299d3f1d3386d81e0e8ebb746e2a11c9c7b8f6d77471634470d80d"
+
+[[files]]
 file = "config/WeirdingGadget.toml"
 hash = "7082e6b231a6ad4466261a82cc296b8e52126c5edab4c4a0e33c3f3664947610"
 
