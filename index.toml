@@ -81,8 +81,12 @@ file = "config/TwitchSpawn/preferences.toml"
 hash = "4a9de5cb573a2ac38674c7ba75eb025a5b8ba9b4cf4b039eac91efc74930a0e8"
 
 [[files]]
-file = "config/TwitchSpawn/rules.S4.tsl"
-hash = "1c9b9d0d1945b4d91050956d66d2cdb43b0c23b0fbf636f0ee544f51383f2001"
+file = "config/TwitchSpawn/rules.halosiapaage.tsl"
+hash = "916a8a3b3eafb60ffa77ef61c1670fd862609076e1546d4f3753fbbaaf83ee8c"
+
+[[files]]
+file = "config/TwitchSpawn/rules.hilha.tsl"
+hash = "916a8a3b3eafb60ffa77ef61c1670fd862609076e1546d4f3753fbbaaf83ee8c"
 
 [[files]]
 file = "config/TwitchSpawn/server_discord_conn.json"
