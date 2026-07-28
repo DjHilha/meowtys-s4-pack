@@ -62,11 +62,11 @@ hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
 [[files]]
 file = "config/TwitchSpawn/client_credentials.json"
-hash = "9fd53857e5827b2735b3c061eabd5753b5b3beb6d6d9f00e85d3d8836eec8dd8"
+hash = "442a5cb3f3375901f2ca16f4eda7a574bc6a5c3960a285b8056edc9536db800d"
 
 [[files]]
 file = "config/TwitchSpawn/credentials.toml"
-hash = "1806d972f12a522ead8d32f6d3592550a08527eef93ef0ba72a7c0b27148e169"
+hash = "bc1bc52c4278e5b3958933b88409dbc728e980a2c0becabaed159f39e040256c"
 
 [[files]]
 file = "config/TwitchSpawn/messages.subtitle.json"
@@ -81,24 +81,8 @@ file = "config/TwitchSpawn/preferences.toml"
 hash = "4a9de5cb573a2ac38674c7ba75eb025a5b8ba9b4cf4b039eac91efc74930a0e8"
 
 [[files]]
-file = "config/TwitchSpawn/rules.HalosiaPaage.tsl"
-hash = "c663718ffbf15d8ee199a87aa5ab218e00f7a4f340d1b4bb5f7d460506b422e7"
-
-[[files]]
-file = "config/TwitchSpawn/rules.Hilha.tsl"
-hash = "891bd7354864d64d000ede1070f6f16d01f6256e74145dc007fc906300dda9ee"
-
-[[files]]
-file = "config/TwitchSpawn/rules.Hilha.tsl.orig"
-hash = "84cda20e97dad91d40b08539279370a48fbec47d0d0566fc06683ea89f5734cb"
-
-[[files]]
-file = "config/TwitchSpawn/rules.Rhaw_G.tsl"
-hash = "8b29acd311f0139493d567ff819df4536e24e730d137c406225d81ae3d80126d"
-
-[[files]]
-file = "config/TwitchSpawn/rules.default.tsl"
-hash = "2ec73a9b31b3b346938cd4129b0aab33c1af61ea15e3f5fb1fab3cd6dda43849"
+file = "config/TwitchSpawn/rules.S4.tsl"
+hash = "1c9b9d0d1945b4d91050956d66d2cdb43b0c23b0fbf636f0ee544f51383f2001"
 
 [[files]]
 file = "config/TwitchSpawn/server_discord_conn.json"
@@ -14061,6 +14045,10 @@ file = "mods/BotanyPots-Forge-1.18.2-8.1.32.jar"
 hash = "d61ecf95f2f3cd7d6cd537502969526fc17073eac6d80460d3d6f89106c3acf2"
 
 [[files]]
+file = "mods/BotanyTrees-Forge-1.18.2-4.0.13.jar"
+hash = "d86eed812e67dc553a98e9827225b56faebb7d0021835d98af46981e648da53e"
+
+[[files]]
 file = "mods/BuildersDelight-1.18.2-v.1.0.jar"
 hash = "33f6147c4e1351a563b634ffbda61f9af8187a5b91073787625fcf24d14fb9d1"
 
@@ -14117,6 +14105,10 @@ file = "mods/ExtraStorage-1.18.2-2.2.1.jar"
 hash = "9335fddc1fe46b3d59808c89bb72f4b518c06e7931d7cdf7e48548afd86b1b4b"
 
 [[files]]
+file = "mods/FarmersDelight-1.18.2-1.2.3.jar"
+hash = "b192b64908d4fd963151b79329d6f0c5d5d1a1273f7e82849b3c08b720311028"
+
+[[files]]
 file = "mods/FastWorkbench-1.18.2-6.1.1.jar"
 hash = "f6bc20027a7ae63cf5d29480dc20bcaa8a7b2a364cb5045994dd83c031a4ea88"
 
@@ -14170,7 +14162,7 @@ hash = "a981e77d4825111d15b529400eac3c21f43b3a47ea12d82475a66cf919e52aa0"
 
 [[files]]
 file = "mods/MeowtysMod.jar"
-hash = "b9ccb6d4dabdc6e412dafa980fe47573dca89d46d555b923abf661a8aec8d7b6"
+hash = "97835ec1cedaeb8d69e695c6f7cf1124c2708bb35e9b1af409906bd273bd64b2"
 
 [[files]]
 file = "mods/MmmMmmMmmMmm-1.18.2-1.5.2.jar"
@@ -14595,6 +14587,10 @@ hash = "b0bd3576b4272ee028c70f34377f17911e24cc8cd2dc35ffa224d49556d3cdcf"
 [[files]]
 file = "mods/simplylight-1.18.2-1.4.5-build.43.jar"
 hash = "797008879bb74da4c41fe99763c05e9d1442e6a7e883df8552af0045c9414dfd"
+
+[[files]]
+file = "mods/smallships-forge-1.18.2-2.0.0-b1.3.1.jar"
+hash = "4e4cb4c87c3576c1f6a6ba72ef823da0fa94ce1b6faab36175f1f7b57765950d"
 
 [[files]]
 file = "mods/sophisticatedbackpacks-1.18.2-3.20.3.1063.jar"
