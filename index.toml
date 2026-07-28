@@ -62,11 +62,11 @@ hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
 [[files]]
 file = "config/TwitchSpawn/client_credentials.json"
-hash = "442a5cb3f3375901f2ca16f4eda7a574bc6a5c3960a285b8056edc9536db800d"
+hash = "e67c03fbf6f2248bf2f556d791b7ec6803e2eec43df64374d6f35b4179656c68"
 
 [[files]]
 file = "config/TwitchSpawn/credentials.toml"
-hash = "bc1bc52c4278e5b3958933b88409dbc728e980a2c0becabaed159f39e040256c"
+hash = "e67c03fbf6f2248bf2f556d791b7ec6803e2eec43df64374d6f35b4179656c68"
 
 [[files]]
 file = "config/TwitchSpawn/messages.subtitle.json"
