@@ -14162,7 +14162,7 @@ hash = "a981e77d4825111d15b529400eac3c21f43b3a47ea12d82475a66cf919e52aa0"
 
 [[files]]
 file = "mods/MeowtysMod.jar"
-hash = "97835ec1cedaeb8d69e695c6f7cf1124c2708bb35e9b1af409906bd273bd64b2"
+hash = "9cee41aca5c4d9d8f223b6f43a62f9720612fed56d158a3561c203bcb507c98e"
 
 [[files]]
 file = "mods/MmmMmmMmmMmm-1.18.2-1.5.2.jar"
@@ -14633,8 +14633,8 @@ file = "mods/tectonic-forge-1.18-2.3.5a.jar"
 hash = "85817cdaa0fbac6db2484337a947129eeb26c2e6700909ea4862037982699973"
 
 [[files]]
-file = "mods/the_vault-1.18.2-20.0.0-remastered.6870.jar"
-hash = "f3222e92170aac531961e08ef5c40c4f516011f2adc9b555c226d1ed912b32a7"
+file = "mods/the_vault-1.18.2-20.0.4-remastered.6872.jar"
+hash = "fc6adfeb76071d61e633027334fc95e8efb7faf8a4cb57d646f8176b4f75390b"
 
 [[files]]
 file = "mods/thermal_dynamics-1.18.2-9.2.2.19.jar"
@@ -15222,7 +15222,7 @@ hash = "fafed89f2d8a647a79ba987a636a9bd830c5738e6359325466897582f5483c31"
 
 [[files]]
 file = "servers.dat"
-hash = "516d66fabf02c7849fc9b04d12d2fb53bbece33d73c34e140a05188f64d021ff"
+hash = "b25eb9bef9e247f8f4f3e646930adffb6fcac75d130ac74fbae8115f154d03f4"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.3.zip"
