@@ -14017,6 +14017,10 @@ file = "mods/AE2-Things-1.0.7.jar"
 hash = "9dd028d7b2ff06825b0b645f4746a4098b6bafa689f2af0a9be31538d22c9fd3"
 
 [[files]]
+file = "mods/AEInfinityBooster-1.18.2-1.1.0+9.jar"
+hash = "d28c99fc2e2762fadf30cd015e82a7ebf3358a51f510037ea86865dcafb9f547"
+
+[[files]]
 file = "mods/AkashicTome-1.5-20.jar"
 hash = "156c495d55c312522ca51e46db272dbfba209d0c2fc70c95466d1cd487859f92"
 
