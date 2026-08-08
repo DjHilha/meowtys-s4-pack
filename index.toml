@@ -14345,8 +14345,8 @@ file = "mods/comforts-forge-1.18.2-5.0.0.6.jar"
 hash = "10da8248a7e9440a84394a4b78410ec6ab85d66f521cfc3f87849dfada3a65d7"
 
 [[files]]
-file = "mods/companioncodex-1.0.6.jar"
-hash = "e0d430e6746931514fbfc4b46ca46e7fc412978da57270f28a7e1c498f941c6c"
+file = "mods/companioncodex-1.1.0.jar"
+hash = "64591cba18fc52c9471016e8714c4d8384644c9df6953f770330ec6ea2cad3eb"
 
 [[files]]
 file = "mods/connectivity-1.18.2-3.2.jar"
